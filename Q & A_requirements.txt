@@ -1,0 +1,9 @@
+# These are required libraries for our project. Let us install them. 
+langchain
+langchain-groq
+python-dotenv
+langchain-community
+langchain-openai
+pypdf
+faiss-cpu
+langchain_core
